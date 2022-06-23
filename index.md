@@ -4,16 +4,20 @@ You can use the [editor on GitHub](https://github.com/xposednexus/test.github.io
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### расчёт мощности двигателя 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Формулы для расчета:
 
-```markdown
-Syntax highlighted code block
+```расчёт мощности двигателя 
+За счёт оборотов и крутящего момента 
 
-# their car
-## the engine 
-### the gearbox
+P=Mk*n/9549
+P-мощьность в кВТ
+Mk- крутящий момент н*м
+n- обороты двигателя
+
+
+
 
 - Bulleted
 - List
